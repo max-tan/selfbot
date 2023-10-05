@@ -3,6 +3,7 @@ import json
 import os
 import time
 
+
 class selfbot:
     def __init__(self, token):
         self.__class__.token = token
